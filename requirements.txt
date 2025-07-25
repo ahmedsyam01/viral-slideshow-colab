@@ -1,0 +1,10 @@
+google-generativeai>=0.7.0
+openai>=1.30.0
+yt-dlp>=2024.7
+pandas>=2.1.0
+requests>=2.31.0
+opencv-python>=4.8.0
+scenedetect>=0.6.3
+Pillow>=10.0.0
+tqdm>=4.66.0
+python-dotenv>=1.0.0
